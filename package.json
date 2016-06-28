@@ -1,5 +1,5 @@
 {
-  "name": "hexo-renderer-postcss",
+  "name": "@aredridel/hexo-renderer-postcss",
   "version": "1.0.1",
   "description": "A Hexo plugin for rendering PostCSS",
   "main": "index.js",
